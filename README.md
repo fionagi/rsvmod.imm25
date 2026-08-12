@@ -30,7 +30,7 @@ This file contains functions to produce a range of different plots.
 
 ## Linked publications ##
 
-The related paper is currently under review. In the meantime, if you wish to use any part of this code, please reference
+If you wish to use any part of this code, please reference
 
-Giannini F, Hogan AB, Cameron E, Le H, Minney-Smith C, Richmond P, Blyth CC, Glass K, Moore HC; STAMP RSV investigator team. Estimating the impact of Western Australia's first respiratory syncytial virus immunisation program for all infants: A mathematical modelling study. Vaccine. 2025 May 22;56:127155. https://doi.org/10.1016/j.vaccine.2025.127155. Epub 2025 May 7. PMID: 40339485.
+Giannini F, Hogan AB, Blyth CC, Glass K, Moore HC; STAMP RSV investigator team. Modelling the impact of long-acting monoclonal antibody, maternal vaccine and hybrid programs of RSV immunisation in temperate Western Australia. Vaccine. 2026;86:128731. [https://doi.org/10.1016/j.vaccine.2025.127155](https://doi.org/10.1016/j.vaccine.2026.128731)
 
